@@ -1,0 +1,4 @@
+.env.template.local
+.env.development
+.env.production
+.env.staging
